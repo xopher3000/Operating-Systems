@@ -7,3 +7,8 @@ Another operating system function is shutting down you computer or mobile device
 Sleep mode puts the device into a low-power state after saving any open documents or currently running programs to the device's RAM.  All other unnecessary functions are turned off.
 Hibernation mode, on the other hand, saves all open documents and running applications to an internal hard drive before powering off.
 
+A third operating system function is managing programs.
+Your operating system can be either single tasking or multitasking.
+In multitasking operating systems, multiple programs or applications run concurrently and can reside in your device's memory at the same time.
+The program that is currently active is displayed in the foreground while the other running programs not in use are in the background.
+A multiuser operating system allows multiple users to run programs simultaneously.
