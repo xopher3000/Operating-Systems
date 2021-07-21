@@ -2,3 +2,8 @@ One of the most basic, but arguably the most important function of an operating 
 Upon starting your device, after the tests to run various hardware components are successful, the kernel of your device's operating system, as well as other instructions, are loaded into your devices RAM from it's internal storage area.
 The kernel is memory resident and is the core of your operating system.
 It manages just about everything your computer does such as running programs, assigning resources, managing its memory, and maintaining its inernal clock among other things.
+
+Another operating system function is shutting down you computer or mobile device or placing it in sleep or hibernation mode.
+Sleep mode puts the device into a low-power state after saving any open documents or currently running programs to the device's RAM.  All other unnecessary functions are turned off.
+Hibernation mode, on the other hand, saves all open documents and running applications to an internal hard drive before powering off.
+
